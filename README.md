@@ -4,7 +4,6 @@ Grabber Apache Directory traversal with Shodan. Rewrite code from : https://gith
 # How To Use 
 - pip3 install requirements.txt
 - python3 main.py -a [Shodan Api Key] -k [Keyword for shodan]
-- 
 
 # Shodan API Key ?
 Login / Register to Get your shodan API Key on https://account.shodan.io/ 
